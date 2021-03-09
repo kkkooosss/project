@@ -1,2 +1,3 @@
 New file from klom in branche testing
 This is a new commit from klom 
+Next another changes from klom
